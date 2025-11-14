@@ -38,7 +38,7 @@ main {
 }
 
 .image-container img {
-    border-radius: 0.8rem;
+    border-radius: 0.8rem 0.8rem 0 0;
 }
 
 .content-container {
@@ -176,6 +176,7 @@ main {
         width: 100%;
         height: 100%;
         object-fit: cover;
+        border-radius: 0.8rem 0 0 0.8rem;
     }
 
     .share-button.active {
