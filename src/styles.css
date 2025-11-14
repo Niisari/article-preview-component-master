@@ -240,3 +240,14 @@ main {
         justify-content: center;
     }
 }
+
+/* Footer */
+.attribution {
+    background-color: var(--light-grayish-blue);
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    text-decoration: none;
+    color: var(--very-dark-grayish-blue);
+}
