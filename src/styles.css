@@ -70,6 +70,7 @@ main {
 
 .author-name {
     font-weight: 700;
+    font-size: 0.8rem;
     color: var(--very-dark-grayish-blue);
 }
 
